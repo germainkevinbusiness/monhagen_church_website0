@@ -1,0 +1,20 @@
+{
+  "name": "First haitian church of God of Middletown",
+  "short_name": "FHCOGOM",
+  "icons": [
+    {
+      "src": "./img/fhcogom_192x192_logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/fhcogom_512x512_logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?utm_source=a2hs",
+  "theme_color": "#7952b3",
+  "background_color": "#7952b3",
+  "display": "standalone"
+}
